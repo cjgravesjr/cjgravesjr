@@ -1,16 +1,21 @@
-## Hi there 👋
+# Clarence (CJ) Graves Jr.
 
-<!--
-**cjgravesjr/cjgravesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Telecom field engineer -> systems & support analyst.** Sacramento, CA.
 
-Here are some ideas to get you started:
+Ten years at Ledcor Technical Services keeping carrier, hyperscale and satellite networks running: fiber/DWDM (Ciena, Infinera), microwave (Aviat), satellite RF (ViaSat), IP/MPLS (Cisco, Juniper, Meraki). Subject Matter Expert and Trainer Lead for new hires in the Western Region. Three years of computer-engineering coursework (C++, Java, digital logic) at Jackson State.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strongest skill: root-cause troubleshooting on live production gear. Second: writing the procedure so the next person can do it too.
+
+## What I'm building here
+
+[homelab](https://github.com/cjgravesjr/homelab): Linux control node, Ansible playbooks for device onboarding, Android device inventory via adb, Azure labs. Work in progress.
+
+## Currently learning
+
+Linux command line, Ansible, Python, then CompTIA Security+ and Azure (AZ-900).
+
+## Reach me
+
+- LinkedIn: https://www.linkedin.com/in/clarence-graves-jr-8035342a0
+- Email: fieldwork.clarencegraves@gmail.com
+  
